@@ -16,6 +16,9 @@ state.txt
 *.zip
 AutoAudioSwitch-*.zip
 
+# ---> PowerShellGet metadata (auto-généré via Install-Module)
+PSGetModuleInfo.xml
+
 # ---> Git
 *.orig
 *.rej
