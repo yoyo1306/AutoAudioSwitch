@@ -1,0 +1,21 @@
+# ---> OS / Editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vs/
+.vscode/
+*.user
+*.suo
+
+# ---> Logs / état local (si jamais copiés dans le repo)
+log.txt
+log.txt.old
+state.txt
+
+# ---> Releases locales
+*.zip
+AutoAudioSwitch-*.zip
+
+# ---> Git
+*.orig
+*.rej
